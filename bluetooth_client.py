@@ -1,5 +1,5 @@
 """"
-Execute on the local windows machine -- your own pc
+Execute on the local windows client machine
 """
 import bluetooth
 import argparse
